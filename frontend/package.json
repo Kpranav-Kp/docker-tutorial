@@ -1,0 +1,10 @@
+{
+  "name": "todo-frontend",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite --host"
+  },
+  "dependencies": {
+    "vite": "^5.0.0"
+  }
+}
